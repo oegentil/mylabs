@@ -1,0 +1,45 @@
+{
+    "workshoptitle": "How-to: Drupal on Oracle Linux with MySQL Database Service",
+        "include": {
+            "vcn-create-wizard": "./../../../../vcn-create-wizard.md"
+                    },
+        "tutorials": [
+
+            {
+                "title": "Introduction",
+                "description": "Tutorial introduction", 
+                "filename": "./../../mds-drupal/00-intro.md"
+            },
+            {
+                "title": "VCN",
+                "description": "Create Virtual Cloud Network",
+                "filename": "./../../mds-drupal/01-create-configure-VCN.md"
+            },
+            {
+                "title": "MySQL Database Service",
+                "description": "Create MySQL Database Service",
+                "filename": "./../../mds-drupal/02-create-mds.md"
+            },
+            {
+                "title": "Compute VM",
+                "description": "Create Compute VM",
+                "filename": "./../../mds-drupal/03-create-instance.md"
+            },
+            {
+                "title": "Drupal",
+                "description": "Install Drupal",
+                "filename": "./../../mds-drupal/04-install-drupal.md"
+            },
+            {
+                "title": "Acknoledgements",
+                "description": "Authors and contributors",
+                "filename": "./../../mds-drupal/98-acknoledgements.md"
+            },
+            {
+                "title": "References",
+                "description": "Further reading",
+                "filename": "./../../mds-drupal/99-learnmore.md"
+            }
+       
+        ]
+}
